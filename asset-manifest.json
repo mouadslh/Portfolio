@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ea5a9e50.css",
+    "main.js": "/Portfolio/static/js/main.32da5fb2.js",
+    "static/js/453.cf3f8847.chunk.js": "/Portfolio/static/js/453.cf3f8847.chunk.js",
+    "static/media/mouadsalah.jpg": "/Portfolio/static/media/mouadsalah.5f67700dd8958197ce9a.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.ea5a9e50.css.map": "/Portfolio/static/css/main.ea5a9e50.css.map",
+    "main.32da5fb2.js.map": "/Portfolio/static/js/main.32da5fb2.js.map",
+    "453.cf3f8847.chunk.js.map": "/Portfolio/static/js/453.cf3f8847.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea5a9e50.css",
+    "static/js/main.32da5fb2.js"
+  ]
+}
