@@ -445,9 +445,9 @@ const Portfolio = () => {
               <p>Casablanca , Maroc</p>
             </div>
             <div className="social-links">
-              <a href="#" className="social-link">GitHub</a>
-              <a href="#" className="social-link">LinkedIn</a>
-              <a href="#" className="social-link">Twitter</a>
+              <a href="https://github.com/mouadslh" className="social-link">GitHub</a>
+              <a href="https://www.linkedin.com/in/mouad-salah-5660932b2/" className="social-link">LinkedIn</a>
+              
             </div>
           </div>
           
