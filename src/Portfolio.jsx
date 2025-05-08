@@ -165,7 +165,7 @@ const Portfolio = () => {
       title: "Plateforme educative",
       description: "Plateforme d'apprentissage en ligne avec des cours, des tests et des quizz interactifs, avec interface admin et interface utilisateur",
       technologies: ["React", "Laravel", "CSS"],
-      image: "/projets/Plateformeeducative.png",
+      image: "/build/Plateformeeducative.png",
       isPremium: true
     },
     {
@@ -173,7 +173,7 @@ const Portfolio = () => {
       title: "Portfolio Dynamique",
       description: "Portfolio créatif avec animations et interactions",
       technologies: ["React", "CSS", "Framer Motion"],
-      image: "/projets/Portfolio.png",
+      image: "/build/Portfolio.png",
       isPremium: true
     },
     {
@@ -181,7 +181,7 @@ const Portfolio = () => {
       title: "Plateforme de reservation immobiliere",
       description: "Plateforme intuitive de réservation immobilière permettant aux utilisateurs de rechercher, comparer et réserver des biens en ligne en temps réel. Intègre une gestion des annonces, un système de calendrier de disponibilité, des filtres de recherche avancés et un espace sécurisé pour les paiement",
       technologies: ["Symfony", "Bootstrap", "CSS"],
-      image: "/projets/Agenceimm.png",
+      image: "/build/Agenceimm.png",
       isPremium: true
     },
     {
@@ -189,7 +189,7 @@ const Portfolio = () => {
       title: "To Do List",
       description: "Application de gestion de tâches simple et efficace permettant aux utilisateurs d'ajouter, modifier, supprimer et marquer des tâches comme terminées",
       technologies: ["HTML", "CSS", "JAVASCRIPT"],
-      image: "/projets/todlist1.png",
+      image: "/build/todlist1.png",
       githubLink: "https://github.com/mouadslh/To-do-list"
     },
     {
@@ -197,7 +197,7 @@ const Portfolio = () => {
       title: "To Do List 2",
       description: "Application de gestion de tâches simple et efficace permettant aux utilisateurs d'ajouter, modifier, supprimer et marquer des tâches comme terminées",
       technologies: ["Django", "CSS"],
-      image: "/projets/todolist.png",
+      image: "/build/todolist.png",
       githubLink: "https://github.com/mouadslh/django_TODOlist"
     },
     {
@@ -205,7 +205,7 @@ const Portfolio = () => {
       title: "Template e-commerce",
       description: "Template e-commerce moderne et responsive conçu pour présenter des produits, gérer un panier d'achats et simuler le processus de commande. Inclut une mise en page optimisée, des filtres de produits, et une interface utilisateur fluide adaptée à tous les appareils",
       technologies: ["HTML", "CSS", "JAVASCRIPT"],
-      image: "/projets/panier.png",
+      image: "/build/panier.png",
       githubLink: "https://github.com/mouadslh/StockPlante"
     },
   ];
